@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(142, 255, 208);
+}
+.ubtlogo {
+    width: 100px;
+    height: 100px;
+}
+.menu {
+    width: 20%;
+    float: right;
+    margin-top: -30px;
+    text-decoration: none;
+}
+.menu a {
+    text-decoration: none;
+}
+.home, .about {
+    color: red;
+}
+.contact {
+    color: black;
+}
+.loginform {
+    width: 350px;
+    height: 280px;
+    border-radius: 15px;
+    background-color: rgb(8, 142, 151);
+    margin-left: 40%;
+    margin-top: 100px;
+}    
+    
+.loginform .login {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    padding: 50px;
+    
+}
+.loginform .register {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 200px;
+    margin-top: -83px;
+}
+label {
+    display: block;
+    margin-left: 130px;
+}
+
+
+input {
+    width: 220px;
+    margin-left: 60px;
+    margin-top: 5px;
+    border-radius: 10px;
+    padding: 2px;
+    background-color: #e0dede;
+    border: 0;
+}
+.pw {
+    margin-top: 15px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    margin-top: 20px;
+    margin-left: 122px;
+    border-radius: 20px;
+    font-size: 20px;
+    width: 85px;
+    height: 25px;
+    background-color: rgb(6, 182, 6);
+    border: 0ch;
+    cursor: pointer;
+}
+.copyright {
+    text-align: center;
+    margin-top: 425px;
+    font-weight: bold;
+}
+
+
+    
